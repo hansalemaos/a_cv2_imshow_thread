@@ -9,7 +9,7 @@ pip install a-cv2-imshow-thread
 
     import glob
     import os
-    from a_cv2_imshow_thread import add_imshow_thread_to_cv2 #if you saved this file as z_imshow.py
+    from a_cv2_imshow_thread import add_imshow_thread_to_cv2 
     add_imshow_thread_to_cv2() #monkey patching
     import cv2
     image_background_folder=r'C:\yolovtest\backgroundimages'
