@@ -1,7 +1,7 @@
 ### Solution for the "window - not responding" problem with cv2.imshow()
 
 ```python
-pip install a_cv2_imshow_thread
+pip install a-cv2-imshow-thread
 ```
 
 ```python
